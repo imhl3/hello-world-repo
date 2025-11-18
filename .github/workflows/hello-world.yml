@@ -11,3 +11,4 @@ jobs:
         run: |
           echo "Hello,world!"
           echo "comment #1"
+          echo "comment #2"
